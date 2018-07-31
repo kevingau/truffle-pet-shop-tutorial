@@ -1,3 +1,6 @@
+# Truffle pet shop tutorial
+
+A tutorial for setting up a  Dapp development environment and using truffle framework written in Solidity.  
 http://truffleframework.com/tutorials/pet-shop  
 
 * Install Truffle via npm  
